@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "strict": true,
+    "esModuleInterop": true,
+    "types": ["vitest", "node"],
+    "skipLibCheck": true
+  },
+  "include": ["src", "tests"]
+}
